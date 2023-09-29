@@ -33,9 +33,9 @@ python Incv3_PGN_Attack.py
 ```
 python verify.py
 ```
-3. You can run the file **'surfce_map.py'** to visualize the loss surface maps for the adversarial examples, the maps will be stored in the directory **'./incv3_xxx_outputs/'**.
+3. You can run the file **'surface_map.py'** to visualize the loss surface maps for the adversarial examples, the maps will be stored in the directory **'./incv3_xxx_outputs/'**.
 ```
-python surfce_map.py
+python surface_map.py
 ```
 ## Citation
 If you use this code for your research, please cite our paper.
