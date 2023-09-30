@@ -31,7 +31,7 @@ parser.add_argument("--delta", type=float, default=0.5, help="The balanced coeff
 parser.add_argument("--zeta", type=float, default=3.0, help="The upper bound of neighborhood")
 opt = parser.parse_args()
 
-os.environ["CUDA_VISIBLE_DEVICES"] = '1'
+os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 
 transforms = T.Compose(
     [T.Resize(299), T.ToTensor()]
