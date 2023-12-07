@@ -3,7 +3,7 @@ This repository contains the PyTorch code for the paper:
 
 **Boosting Adversarial Transferability by Achieving Flat Local Maxima [NeurIPS 2023]**.
 
-Zhijin Ge, Fanhua Shang, Hongying Liu, Yuanyuan Liu, Xiaosen Wang.
+Zhijin Ge, Hongying Liu, Xiaosen Wang, Fanhua Shang, Yuanyuan Liu.
 
 ![loss surface map](https://github.com/Trustworthy-AI-Group/PGN/blob/main/doc/images/loss_surface.png)
 ## Requirements
@@ -46,7 +46,7 @@ If our paper or this code is useful for your research, please cite our paper.
 ```
 @inproceedings{ge2023boosting,
      title={{Boosting Adversarial Transferability by Achieving Flat Local Maxima}},
-     author={Zhijin Ge and Fanhua Shang and Hongying Liu and Yuanyuan Liu and Xiaosen Wang},
+     author={Zhijin Ge and Hongying Liu and Xiaosen Wang and Fanhua Shang and Yuanyuan Liu},
      booktitle={Proceedings of the Advances in Neural Information Processing Systems},
      year={2023},
 }
