@@ -1,10 +1,12 @@
 # PGN
 This repository contains the PyTorch code for the paper:
 
-**Boosting Adversarial Transferability by Achieving Flat Local Maxima [NeurIPS 2023]**.
+[Boosting Adversarial Transferability by Achieving Flat Local Maxima](https://arxiv.org/abs/2306.05225) (NeurIPS 2023)
 
 Zhijin Ge, Hongying Liu, Xiaosen Wang, Fanhua Shang, Yuanyuan Liu.
 
+> We also include the code in the framework [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack).
+> 
 ![loss surface map](https://github.com/Trustworthy-AI-Group/PGN/blob/main/doc/images/loss_surface.png)
 ## Requirements
 * Python == 3.7.11
